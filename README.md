@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matej</h1>
-<h3 align="center">Avid video game player, husband, developer, tinkerer</h3>
+<h3 align="center">Avid husband, fish eater, developer, tinkerer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
